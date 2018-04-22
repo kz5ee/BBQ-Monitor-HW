@@ -65,6 +65,8 @@ void main(void)
 
     // Disable the Peripheral Interrupts
     //INTERRUPT_PeripheralInterruptDisable();
+    
+    printf("Chip set up, boss!");
 
     while (1)
     {
